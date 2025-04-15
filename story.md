@@ -1,2 +1,3 @@
 # group-story
-"Once upon a time, a dog and a cat met at a park..."
+Once upon a time, a dog and a cat met at a park...
+They fought over who was the faster animal. 
